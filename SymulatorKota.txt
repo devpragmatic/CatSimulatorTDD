@@ -1,0 +1,6 @@
+Symulator kota.
+1. Kot ma pusty brzuszek gdy jest głodny.
+2. Gdy kot zje, to brzuszek jest pełny.
+3. Kot nie może mieć pustego i pełnego brzuszka jednocześnie.
+4. Kot, jak ma pełny brzuszek może iść spać.
+5. Gdy kot śpi robi się głodny.
